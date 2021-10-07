@@ -1,6 +1,6 @@
 {
 	"frames": {
-		"frame_0_delay-0.1s.png": {
+		"bird1.png": {
 			"frame": {
 				"x": 1,
 				"y": 1,
@@ -20,7 +20,7 @@
 				"h": 178
 			}
 		},
-		"frame_1_delay-0.1s.png": {
+		"bird2.png": {
 			"frame": {
 				"x": 1,
 				"y": 181,
@@ -40,7 +40,7 @@
 				"h": 155
 			}
 		},
-		"frame_2_delay-0.1s.png": {
+		"bird3.png": {
 			"frame": {
 				"x": 275,
 				"y": 1,
@@ -60,7 +60,7 @@
 				"h": 186
 			}
 		},
-		"frame_3_delay-0.1s.png": {
+		"bird4.png": {
 			"frame": {
 				"x": 275,
 				"y": 189,
